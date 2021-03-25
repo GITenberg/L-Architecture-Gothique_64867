@@ -1,5 +1,8 @@
 _repo: L-Architecture-Gothique_64867
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64867-h/images/cover.jpg
 creator:
   author:
     agent_name: Corroyer, Édouard
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48001
     wikipedia: https://fr.wikipedia.org/wiki/%C3%89douard_Corroyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64867#L-Architecture-Gothique
 gutenberg_issued: '2021-03-19'
 gutenberg_type: Text
 identifiers:
